@@ -1,0 +1,7 @@
+C:\projects\DES\bin\Debug\DES.exe.config
+C:\projects\DES\bin\Debug\DES.exe
+C:\projects\DES\bin\Debug\DES.pdb
+C:\projects\DES\bin\Debug\BouncyCastle.Crypto.dll
+C:\projects\DES\obj\Debug\DES.csprojResolveAssemblyReference.cache
+C:\projects\DES\obj\Debug\DES.exe
+C:\projects\DES\obj\Debug\DES.pdb
